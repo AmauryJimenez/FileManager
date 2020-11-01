@@ -327,11 +327,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AmauryJ\\source\\repos\\FileManager\\FileManager\\FileManager.csproj",
+      "projectUniqueName": "D:\\VS Repos\\FileManager\\FileManager\\FileManager\\FileManager.csproj",
       "projectName": "FileManager",
-      "projectPath": "C:\\Users\\AmauryJ\\source\\repos\\FileManager\\FileManager\\FileManager.csproj",
+      "projectPath": "D:\\VS Repos\\FileManager\\FileManager\\FileManager\\FileManager.csproj",
       "packagesPath": "C:\\Users\\AmauryJ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AmauryJ\\source\\repos\\FileManager\\FileManager\\obj\\",
+      "outputPath": "D:\\VS Repos\\FileManager\\FileManager\\FileManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -350,11 +350,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\AmauryJ\\source\\repos\\FileManager\\Contracts\\Contracts.csproj": {
-              "projectPath": "C:\\Users\\AmauryJ\\source\\repos\\FileManager\\Contracts\\Contracts.csproj"
+            "D:\\VS Repos\\FileManager\\FileManager\\Contracts\\Contracts.csproj": {
+              "projectPath": "D:\\VS Repos\\FileManager\\FileManager\\Contracts\\Contracts.csproj"
             },
-            "C:\\Users\\AmauryJ\\source\\repos\\FileManager\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\AmauryJ\\source\\repos\\FileManager\\Services\\Services.csproj"
+            "D:\\VS Repos\\FileManager\\FileManager\\Services\\Services.csproj": {
+              "projectPath": "D:\\VS Repos\\FileManager\\FileManager\\Services\\Services.csproj"
             }
           }
         }

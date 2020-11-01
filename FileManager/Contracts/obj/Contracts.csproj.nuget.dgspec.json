@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AmauryJ\\source\\repos\\FileManager\\Contracts\\Contracts.csproj": {}
+    "D:\\VS Repos\\FileManager\\FileManager\\Contracts\\Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AmauryJ\\source\\repos\\FileManager\\Contracts\\Contracts.csproj": {
+    "D:\\VS Repos\\FileManager\\FileManager\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AmauryJ\\source\\repos\\FileManager\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "D:\\VS Repos\\FileManager\\FileManager\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "C:\\Users\\AmauryJ\\source\\repos\\FileManager\\Contracts\\Contracts.csproj",
+        "projectPath": "D:\\VS Repos\\FileManager\\FileManager\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\AmauryJ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AmauryJ\\source\\repos\\FileManager\\Contracts\\obj\\",
+        "outputPath": "D:\\VS Repos\\FileManager\\FileManager\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\AmauryJ\\source\\repos\\FileManager\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\AmauryJ\\source\\repos\\FileManager\\Models\\Models.csproj"
+              "D:\\VS Repos\\FileManager\\FileManager\\Models\\Models.csproj": {
+                "projectPath": "D:\\VS Repos\\FileManager\\FileManager\\Models\\Models.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\AmauryJ\\source\\repos\\FileManager\\Models\\Models.csproj": {
+    "D:\\VS Repos\\FileManager\\FileManager\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AmauryJ\\source\\repos\\FileManager\\Models\\Models.csproj",
+        "projectUniqueName": "D:\\VS Repos\\FileManager\\FileManager\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\AmauryJ\\source\\repos\\FileManager\\Models\\Models.csproj",
+        "projectPath": "D:\\VS Repos\\FileManager\\FileManager\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\AmauryJ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AmauryJ\\source\\repos\\FileManager\\Models\\obj\\",
+        "outputPath": "D:\\VS Repos\\FileManager\\FileManager\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
