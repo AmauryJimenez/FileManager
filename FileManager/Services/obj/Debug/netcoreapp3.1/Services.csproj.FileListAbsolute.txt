@@ -1,0 +1,13 @@
+C:\Users\AmauryJ\source\repos\FileManager\Services\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\AmauryJ\source\repos\FileManager\Services\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\AmauryJ\source\repos\FileManager\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+C:\Users\AmauryJ\source\repos\FileManager\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\AmauryJ\source\repos\FileManager\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\AmauryJ\source\repos\FileManager\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\AmauryJ\source\repos\FileManager\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\AmauryJ\source\repos\FileManager\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\AmauryJ\source\repos\FileManager\Services\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\AmauryJ\source\repos\FileManager\Services\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\AmauryJ\source\repos\FileManager\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+C:\Users\AmauryJ\source\repos\FileManager\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\Users\AmauryJ\source\repos\FileManager\Services\obj\Debug\netcoreapp3.1\Services.pdb

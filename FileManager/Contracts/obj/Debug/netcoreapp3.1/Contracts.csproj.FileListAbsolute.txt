@@ -1,0 +1,11 @@
+C:\Users\AmauryJ\source\repos\FileManager\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+C:\Users\AmauryJ\source\repos\FileManager\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\AmauryJ\source\repos\FileManager\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\AmauryJ\source\repos\FileManager\Contracts\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\AmauryJ\source\repos\FileManager\Contracts\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\AmauryJ\source\repos\FileManager\Contracts\obj\Debug\netcoreapp3.1\Contracts.csprojAssemblyReference.cache
+C:\Users\AmauryJ\source\repos\FileManager\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+C:\Users\AmauryJ\source\repos\FileManager\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+C:\Users\AmauryJ\source\repos\FileManager\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CopyComplete
+C:\Users\AmauryJ\source\repos\FileManager\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\AmauryJ\source\repos\FileManager\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
